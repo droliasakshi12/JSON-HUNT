@@ -46,8 +46,8 @@ pip install -r requirements.txt
 
 - json_hunt.py — Core script containing the search logic
 - json_hunt.json — Example JSON file for testing and experimentation
-
-  <b><p>⭐ If you found this repository useful, consider giving it a star!</p>
+  
+<b><p>⭐ If you found this repository useful, consider giving it a star!</p>
 <p>Happy Coding 🐍✨</p></b>
 <br>
 👤 Github  : [@droliasakshi12](https://github.com/droliasakshi12)<br>
